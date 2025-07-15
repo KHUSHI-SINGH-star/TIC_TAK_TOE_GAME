@@ -25,6 +25,7 @@ Players take turns clicking on the grid to mark their symbol.
 The first to align three symbols horizontally, vertically, or diagonally wins.
 
 If all cells are filled and no one wins, it's a draw.
+---
 
 📁 Project Structure
 bash
@@ -34,6 +35,8 @@ TIC_TAC_TOE_GAME/
 ├── index.html      # The game UI
 ├── style.css       # Styling and layout
 └── script.js       # Game logic and interactivity
+
+----
 
 
 💡 Technologies Used
@@ -45,12 +48,14 @@ JavaScript (Vanilla)
 
 No frameworks, no libraries — everything built from scratch for learning and simplicity.
 
+---
 🧑‍💻 Author
 Khushi Singh
+---
 
 📜 License
 MIT License — you're free to use, modify, and share it!
-
+--
 🌈 Like this project?
 If you like this simple game, feel free to ⭐ star the repo or fork it to make your own custom version (dark mode, sound effects, emoji themes — go wild!).
 
